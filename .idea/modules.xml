@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/aperture-acl/aperture-acl.iml" filepath="$PROJECT_DIR$/aperture-acl/aperture-acl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aperture-gateway/aperture-gateway.iml" filepath="$PROJECT_DIR$/aperture-gateway/aperture-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aperture-parent.iml" filepath="$PROJECT_DIR$/aperture-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/common-utils/common-utils.iml" filepath="$PROJECT_DIR$/common/common-utils/common-utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/common_utils/common_utils.iml" filepath="$PROJECT_DIR$/common/common_utils/common_utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/service-base/service-base.iml" filepath="$PROJECT_DIR$/common/service-base/service-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/service_base/service_base.iml" filepath="$PROJECT_DIR$/common/service_base/service_base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/spring-security/spring-security.iml" filepath="$PROJECT_DIR$/common/spring-security/spring-security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/spring_security/spring_security.iml" filepath="$PROJECT_DIR$/common/spring_security/spring_security.iml" />
+    </modules>
+  </component>
+</project>

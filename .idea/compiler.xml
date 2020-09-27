@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="aperture-acl" />
+        <module name="aperture-gateway" />
+        <module name="aperture_acl" />
+        <module name="common-utils" />
+        <module name="common_utils" />
+        <module name="service-base" />
+        <module name="service_base" />
+        <module name="spring-security" />
+        <module name="spring_security" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.8">
+      <module name="aperture-acl" target="1.8" />
+      <module name="aperture-gateway" target="1.8" />
+      <module name="aperture-parent" target="1.8" />
+      <module name="aperture_acl" target="1.8" />
+      <module name="aperture_parent" target="1.8" />
+      <module name="common" target="1.8" />
+      <module name="common-utils" target="1.8" />
+      <module name="common_utils" target="1.8" />
+      <module name="service-base" target="1.8" />
+      <module name="service_base" target="1.8" />
+      <module name="spring-security" target="1.8" />
+      <module name="spring_security" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
